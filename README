@@ -1,1 +1,17 @@
-This file was created by JetBrains PhpStorm 3.0 for binding GitHub repository
+OpenCart SEO - is a new generation of SEO Home Link Fix vQmod extension.
+
+Now, this modification fixes all duplicated links in a basic core of OpenCart 1.5.1 and more later.
+
+Installation:
+1) Get latest version from GitHub Repository
+2) Move extracted file into the folder: /vqmod/xml/
+3) Enjoy!
+
+Project page:
+https://github.com/shaman/opencart-seo
+
+Bug reports:
+https://github.com/shaman/opencart-seo/issues
+
+Ukrainian community support:
+http://forum.opencart.ua/viewtopic.php?f=5&t=120
