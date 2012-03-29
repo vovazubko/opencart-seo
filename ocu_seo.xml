@@ -158,20 +158,6 @@
                 ]]>
             </add>
         </operation>
-        <operation>
-            <search position="replace">
-                <![CDATA[$this->data['title'] = $this->document->getTitle();]]>
-            </search>
-            <add>
-                <![CDATA[
-                    if (isset($this->request->get['route'])) {
-                        $this->data['title'] = $this->document->getTitle() . ' - ' . $this->config->get('config_title');
-                    } else {
-                        $this->data['title'] = $this->document->getTitle();
-                    }
-                ]]>
-            </add>
-        </operation>
     </file>
 
         <!-- MODULES -->
