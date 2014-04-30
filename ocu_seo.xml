@@ -2,7 +2,7 @@
     <id>SEO Mod by OpenCart Ukrainian Team</id>
     <version>1.5.1</version>
     <vqmver>1.3.6/17.10.2011</vqmver>
-    <author>Eugene Kuligin (a.k.a. Shaman)</author>
+    <author>Eugene Lifescale (a.k.a. Shaman)</author>
     <file name="system/library/url.php">
         <operation>
             <search position="replace">
